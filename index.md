@@ -21,7 +21,11 @@ layout: default
 1. [Looking out, looking in: transformative feminist pedagogies in the Caribbean](https://www.tandfonline.com/doi/full/10.1080/09540253.2025.2515864?src=exp-la)
 2. [Reconstructing racialised femininity: Stories from Venezuelan migrant women](https://journals.sagepub.com/doi/abs/10.1080/21632324.2020.1809283)
 
+
+
 > Wan Wan Dutty Build Dam - Guyanese Proverb
+
+
 
 ## [Let's Collaborate](www.tiviacollins.com)
 
