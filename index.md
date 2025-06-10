@@ -2,122 +2,26 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Tivia Collins
 
-[Link to another page](./another-page.html).
+## Caribbean Scholar, Researcher, Storyteller
 
-There should be whitespace between paragraphs.
+> I document Caribbean migrant women’s lived experiences of borders, citizenship and non/belonging.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Email: [*tiviacollins@gmail.com*] (mailto:tiviacollins@gmail.com)
 
-# Header 1
+## Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+1. Phd, Interdisciplinary Gender Studies, University of the West Indies
+2. MsC, Gender and Development, University of the West Indies
+3. BSc, International Relations, University of Guyana
 
-## Header 2
+## Publications
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+1. [Looking out, looking in: transformative feminist pedagogies in the Caribbean] (https://www.tandfonline.com/doi/full/10.1080/09540253.2025.2515864?src=exp-la)
+2. [Reconstructing racialised femininity: Stories from Venezuelan migrant women] (https://journals.sagepub.com/doi/abs/10.1080/21632324.2020.1809283)
 
-### Header 3
+> Wan Wan Dutty Build Dam - Guyanese Proverb
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## [Let's Collaborate] (www.tiviacollins.com)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
